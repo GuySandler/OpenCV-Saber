@@ -5,4 +5,4 @@ itsdangerous>=2.2.0
 click>=8.1.8
 mediapipe>=0.10.21
 numpy>=1.26.4
-opencv-python>=4.10.0
+opencv-python-headless>=4.10.0
